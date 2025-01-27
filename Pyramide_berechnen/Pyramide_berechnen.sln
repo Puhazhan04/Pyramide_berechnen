@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyramide_berechnen", "Pyramide_berechnen\Pyramide_berechnen.csproj", "{F998142A-BC1D-4DA9-BA10-EDC81E16E245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F998142A-BC1D-4DA9-BA10-EDC81E16E245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F998142A-BC1D-4DA9-BA10-EDC81E16E245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F998142A-BC1D-4DA9-BA10-EDC81E16E245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F998142A-BC1D-4DA9-BA10-EDC81E16E245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2ECDA2B-348B-41B8-99DB-B8402B02B87A}
+	EndGlobalSection
+EndGlobal

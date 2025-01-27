@@ -1,0 +1,14 @@
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\bin\Debug\net8.0\Pyramide_berechnen.exe
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\bin\Debug\net8.0\Pyramide_berechnen.deps.json
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\bin\Debug\net8.0\Pyramide_berechnen.runtimeconfig.json
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\bin\Debug\net8.0\Pyramide_berechnen.dll
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\bin\Debug\net8.0\Pyramide_berechnen.pdb
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\obj\Debug\net8.0\Pyramide_berechnen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\obj\Debug\net8.0\Pyramide_berechnen.AssemblyInfoInputs.cache
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\obj\Debug\net8.0\Pyramide_berechnen.AssemblyInfo.cs
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\obj\Debug\net8.0\Pyramide_berechnen.csproj.CoreCompileInputs.cache
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\obj\Debug\net8.0\Pyramide_berechnen.dll
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\obj\Debug\net8.0\refint\Pyramide_berechnen.dll
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\obj\Debug\net8.0\Pyramide_berechnen.pdb
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\obj\Debug\net8.0\Pyramide_berechnen.genruntimeconfig.cache
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Pyramide_berechnen\Pyramide_berechnen\obj\Debug\net8.0\ref\Pyramide_berechnen.dll
